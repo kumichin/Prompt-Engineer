@@ -1,7 +1,7 @@
-# Prompt-Engineer
-Trabajos de ingenieria de prompt
+# Prompt-Engineer - imagen creation
+Trabajos de ingenieria de prompt para la creacion de imagenes
 
-¡Hola! Soy Kumiko Aisaka, ingeniera de prompt especializada en el uso de inteligencia artificial para generar imágenes de alta calidad y contenido visual creativo. Este repositorio está diseñado para mostrar mi habilidad en la creación de prompts efectivos y detallados para IA, específicamente en el diseño de personajes futuristas y mágicos. podrás ver cómo mis ideas se convierten en imágenes increíbles mediante el uso de IA.
+¡Hola! este repositorio reune las imagenes que creo con IA, como ingeniera de promt me encanta crear promt y refinarlos hasta conseguir las ordenes mas optimizadas para crear imágenes de alta calidad y contenido visual creativo. Este repositorio está diseñado para mostrar mi habilidad en la creación de prompts efectivos y detallados para IA, específicamente en la creación de imagenes. podrás ver cómo mis ideas se convierten en imágenes increíbles mediante el uso de IA.
 
 ## Proyecto
 
