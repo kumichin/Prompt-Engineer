@@ -7,7 +7,7 @@ Trabajos de ingenieria de prompt para la creacion de imagenes
 
 ### 1. Diseño de Personajes Futuristas
 - **Descripción:** En este proyecto, me propuse crear una serie de personajes mágicos en un mundo futurista, fusionando tecnología y magia. A continuación, podrás ver cómo evoluciona el proceso desde el primer concepto hasta el resultado final.
-- [Ver Proyecto](prompts/project_1/)
+- [Ver Proyecto]([prompts/project_1/](https://github.com/kumichin/Prompt-Engineer-imagen-creation/tree/23baa8d487508073468653737a7cbb00fa3c4f40/Prompts/Project_1.%20Dise%C3%B1o%20de%20Personajes%20Futuristas%20con%20IA))
 
 ### 2. [Otro Proyecto]
 - **Descripción:** Breve descripción del proyecto.
