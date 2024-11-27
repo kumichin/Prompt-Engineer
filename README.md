@@ -9,6 +9,10 @@ Trabajos de ingenieria de prompt
 - **Descripción:** En este proyecto, me propuse crear una serie de personajes mágicos en un mundo futurista, fusionando tecnología y magia. A continuación, podrás ver cómo evoluciona el proceso desde el primer concepto hasta el resultado final.
 - [Ver Proyecto](prompts/project_1/)
 
+### 2. [Otro Proyecto]
+- **Descripción:** Breve descripción del proyecto.
+- [Ver Proyecto](prompts/project_2/)
+
 ## ¿Qué puedes esperar de este repositorio?
 
 - **Prompts detallados:** Verás los prompts originales, los ajustes y el resultado final de cada imagen.
