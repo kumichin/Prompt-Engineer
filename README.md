@@ -15,9 +15,9 @@ El propósito de este proyecto es explorar las técnicas de ingeniería de promp
 - **Resultados:** Se han generado diversas imágenes, conversaciones, textos..., algunas de las cuales se muestran en los archivos de salida y en la documentación del proyecto. La optimización de los prompts ha mostrado mejoras significativas en la precisión y creatividad.
 
 
-### Estructura del Repositorio
+## Estructura del Repositorio
 
-# ingenieria_de_prompts/
+### ingenieria_de_prompts/
 - **creacion_de_imagenes/**
 - **resultados/**
 - **imagenes_generadas/**
