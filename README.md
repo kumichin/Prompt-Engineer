@@ -17,7 +17,7 @@ El propósito de este proyecto es explorar las técnicas de ingeniería de promp
 
 ### Estructura del Repositorio
 
-ingenieria_de_prompts/
+## ingenieria_de_prompts/
 │
 - **creacion_de_imagenes/**
 - **resultados/**
