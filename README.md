@@ -16,19 +16,20 @@ El propósito de este proyecto es explorar las técnicas de ingeniería de promp
 
 
 ### Estructura del Repositorio
-Copiar
-Editar
+
 ingenieria_de_prompts/
 │
-├── creacion_de_imagenes/
-│   ├── creacion_de_imagenes.ipynb
-│   ├── resultados/
-│   ├── imagenes_generadas/
-│   └── documentos/
-│
-├── requirements.txt
-└── README.md
-Contribuir
+- **creacion_de_imagenes/**
+- **creacion_de_imagenes.ipynb**
+- **resultados/**
+- **imagenes_generadas/**
+   - **documentos/**
+
+- **requirements.txt**
+- **README.md**
+
+  
+### Contribuir
 ### Si deseas contribuir a este repositorio, ¡estaré encantado de recibir tus sugerencias! Puedes hacer un fork de este repositorio, agregar tus propios ejemplos de ingeniería de prompts, y luego enviar un pull request.
 
 ## Licencia
