@@ -20,12 +20,8 @@ El propósito de este proyecto es explorar las técnicas de ingeniería de promp
 ingenieria_de_prompts/
 │
 - **creacion_de_imagenes/**
-- **creacion_de_imagenes.ipynb**
 - **resultados/**
 - **imagenes_generadas/**
-   - **documentos/**
-
-- **requirements.txt**
 - **README.md**
 
   
