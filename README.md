@@ -4,7 +4,7 @@
 
 Este repositorio contiene mis proyectos de ingeniería de prompts tanto en creación de imagenes, detallado de instrucciones, creación de relatos, enfocado a servicios como marketing o atención al cliente...entre otros
 
-### Objetivo
+## Objetivo
 
 El propósito de este proyecto es explorar las técnicas de ingeniería de prompts. El enfoque se centra en la optimización de los prompts para obtener resultados precisos y relevantes, adaptando las descripciones a las capacidades del modelo elegido.
 
